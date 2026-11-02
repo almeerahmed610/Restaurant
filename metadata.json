@@ -1,0 +1,6 @@
+{
+  "name": "Urban Tandoor & Grill - AI Restaurant Assistant & Operations",
+  "description": "AI-powered restaurant platform for Urban Tandoor & Grill Karachi. Features 24/7 multi-branch ordering, inventory-aware menu, voice assistant, table reservations, live kitchen queue, and pre-orders.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
